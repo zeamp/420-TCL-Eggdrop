@@ -1,7 +1,7 @@
 # 420.tcl v1.0 by zeamp @zeampzpvy
 # https://twitter.com/zeampzpvy
 #
-# This script bestows random wisdom when a user types the
+# This Eggdrop bot script bestows random wisdom when a user types the
 # public command !420 into the channel.
 # Inspired by #r.trees (LiberaChat) IRC channel "toke bot" Z.
 #

@@ -1,5 +1,5 @@
 # 420.tcl by zeamp @zeampzpvy
-# https://x.com/zeampzpvy
+# https://www.abovelinks.com/ze
 
 This Eggdrop bot script bestows random wisdom when a user types the public command !420 into the chat.
 
